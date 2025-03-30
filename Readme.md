@@ -27,5 +27,5 @@ Consultation Management System - Project Report
  '2025-03-25', 'Examen de routine, aucun problème.');
  7. Test de l'Application
  Exécuter l'application avec : mvn spring-boot:run
- Accéder à la documentation API sur : http://localhost:8080/swagger-ui/index.html
+ Accéder à la documentation API sur : http://localhost:9090/swagger-ui/index.html
  Utiliser Postman ou Swagger UI pour tester les opérations CRUD
